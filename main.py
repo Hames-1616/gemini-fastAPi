@@ -2,8 +2,7 @@ import io
 import os
 from click import File
 from dotenv import load_dotenv
-from fastapi import Depends, FastAPI, Form, UploadFile
-from Question_model import question
+from fastapi import  FastAPI, Form, UploadFile
 import uvicorn
 import google.generativeai as ai
 from PIL import Image

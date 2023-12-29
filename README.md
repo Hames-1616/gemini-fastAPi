@@ -11,7 +11,7 @@ To run this project locally, you will need to Clone the Github Repo or download 
 
 or you can download the project from the github in the zip format
 
-After installing place your Api-key,installing required modules and run it 
+After unpacking or cloning place your Api-key,install required modules and run the Project 
 
     apiKey = "api-key"
     pip install -r requirements.txt
